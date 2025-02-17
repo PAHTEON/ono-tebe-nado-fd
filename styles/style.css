@@ -136,6 +136,7 @@
     display: flex;
     gap: 25px;
     flex-wrap: wrap;
+    /* для переноса новых карточек на другую строку */
 }
 
 .card_link {
